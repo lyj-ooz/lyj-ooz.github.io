@@ -1,6 +1,9 @@
 ---
 
 ---
+// google fonts
+@import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
+
 // Customization Variables
 
 $accent: #FF0F00;
@@ -64,6 +67,7 @@ code {
     padding: 30px 0 20px 0;
     .site-title{
         font-size: 32px;
+	font-family: 'Song Myung', "Inconsolata", serif;
         color: #272727;
         display: inline-block;
     }
